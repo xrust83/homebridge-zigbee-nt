@@ -16,6 +16,7 @@ import { TuyaOnoffDoubleSwitch } from './accessories/tuya/tuya-onoff-double-swit
 import { XiaomiContactSensor } from './accessories/xiaomi/contact-sensor';
 import { XiaomiLightIntensitySensor } from './accessories/xiaomi/light-intensity-sensor';
 import { XiaomiOutlet } from './accessories/xiaomi/xiaomi-outlet';
+import { XiaomiOnoffSwitch } from './accessories/xiaomi/xiaomi-onoff-switch';
 import { IkeaRemoteSwitch } from './accessories/ikea/ikea-remote-switch';
 import { IkeaMotionSensor } from './accessories/ikea/ikea-motion-sensor';
 import { LinkindMotionSensor } from './accessories/linkind/linkind-motion-sensor';
